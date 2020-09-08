@@ -22,3 +22,12 @@ Notes from the final project
         image
         image detection
 4 - first step is to build the components using react app.
+
+6- initiate a git repo
+
+(react) [https://create-react-app.dev/docs/getting-started/]
+
+7 - npx create-react-app my-app
+    to create a app of react use above command
+    then 'npm start' to start it
+5 - delete files that are not required
