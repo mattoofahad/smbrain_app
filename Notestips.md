@@ -46,7 +46,7 @@ Notes from the final project
 
 6- initiate a git repo
 
-[react] (https://create-react-app.dev/docs/getting-started/)
+[react](https://create-react-app.dev/docs/getting-started/)
 
 7 - npx create-react-app my-app
 
