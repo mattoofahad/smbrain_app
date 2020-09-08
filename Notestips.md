@@ -46,12 +46,12 @@ Notes from the final project
 
 6- initiate a git repo
 
-(react) [https://create-react-app.dev/docs/getting-started/]
+[react] (https://create-react-app.dev/docs/getting-started/)
 
 7 - npx create-react-app my-app
 
     to create a app of react use above command
 
-    then 'npm start' to start it
+    then 'npm start' to start ita
 
 8 - delete files that are not required
